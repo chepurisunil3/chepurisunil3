@@ -44,7 +44,7 @@ I enjoy solving complex engineering problems, designing reliable systems, and tu
 
 ## 💼 Professional Experience
 
-### Senior Software Developer | Optmyzr
+### Software Development Engineer II | Optmyzr
 
 - Developed and enhanced advertising optimization and automation solutions.
 - Integrated advertising platform APIs into analytics, alerts, and campaign optimization tools.
@@ -84,8 +84,8 @@ Here are some of the projects I'm working on and showcasing:
 
 I'm always open to connecting with fellow developers, discussing engineering challenges, and exploring interesting opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chepuri-sunil)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chepurisunil3)
 
 📍 Hyderabad, India
 
