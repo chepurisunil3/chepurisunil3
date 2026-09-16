@@ -65,8 +65,6 @@ Here are some of the projects I'm working on and showcasing:
 | Backend Engineering | APIs, data processing, and scalable backend services | Node.js, C#/.NET, AWS |
 | DSA & Problem Solving | Data structures and algorithm implementations in JavaScript | JavaScript |
 
-> Check out my pinned repositories below for project details, source code, and demos.
-
 ---
 
 ## 🧠 Areas of Interest
