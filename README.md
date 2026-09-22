@@ -110,18 +110,6 @@ On-demand logistics and delivery products
 
 Also integrate regularly with the **Google, Microsoft (Bing), Meta, and Amazon Ads APIs**, plus Slack and webhook-based automation.
 
----
-
-### 📊 GitHub stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chepurisunil3&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Sunil's GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chepurisunil3&layout=compact&hide_border=true&langs_count=8" alt="Top languages" height="165" />
-
-</div>
-
----
 
 ### 🎓 Education
 
